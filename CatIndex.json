@@ -1,0 +1,48 @@
+Last login: Thu Mar 20 21:42:13 on console
+masashi_mac_ssd@MacBook-Air-5 ~ % nano data.json
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  UW PICO 5.09                                       File: data.json                                        Modified  
+
+{
+    "name": "CatIndex",
+    "description": "Cats Index token on testnet",
+    "symbol": "CAI",
+    "decimals": 9,
+    "image": "https://assets.coingecko.com//coins/images/50236/large/cati.png"              
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help        ^O WriteOut        ^R Read File       ^Y Prev Pg         ^K Cut Text        ^C Cur Pos         
+^X Exit            ^J Justify         ^W Where is        ^V Next Pg         ^U UnCut Text      ^T To Spell        
