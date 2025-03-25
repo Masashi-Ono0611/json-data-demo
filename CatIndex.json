@@ -1,0 +1,7 @@
+{
+    "name": "CatIndex",
+    "description": "Cats Index token on testnet",
+    "symbol": "CAI",
+    "decimals": 9,
+    "image": "https://assets.coingecko.com//coins/images/50236/large/cati.png"              
+}
