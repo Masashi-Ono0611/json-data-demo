@@ -1,7 +1,0 @@
-{
-    "name": "CatIndex2",
-    "description": "Cats Index token on testnet v.2",
-    "symbol": "CAT",
-    "decimals": 9,
-    "image": "https://assets.coingecko.com//coins/images/50236/large/cati.png"              
-}
